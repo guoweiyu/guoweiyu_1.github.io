@@ -1,5 +1,5 @@
 _site/
 push.sh
 .DS_Store
-/Users/guoweiyu/Downloads/guoweiyu.github.io/Gemfile
-/Users/guoweiyu/Downloads/guoweiyu.github.io/Gemfile.lock
+Gemfile
+Gemfile.lock
