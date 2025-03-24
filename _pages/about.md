@@ -22,7 +22,7 @@ I am currently a P.h.D student at Artificail Intelligence Thrust, Information Hu
 I am now working on vision-language-action model, human in the loop and Neural Interface research. If you are seeking any form of academic cooperation, please feel free to email me at [guoweiyu96@gmail.com](guoweiyu96@gmail.com).
 
 My research interest includes Bio-Inspired Neural Network, Neural Interface, Multimodal Large Langugae Model and Robotic manipulation. I have published 20+ papers
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> at the top international AI conferences such as **NeurIPS, ECCV, THMS**. And I aslo pubilished 10+ papers in top journals of Neural Engineering and Robotics such as JNE, TNSRE, RA-L.
+ <a href='https://scholar.google.com/citations?user=ES-56HMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> at the top international AI conferences such as **NeurIPS, ECCV, THMS**. And I aslo pubilished 10+ papers in top journals of Neural Engineering and Robotics such as JNE, TNSRE, RA-L.
 
 
   
