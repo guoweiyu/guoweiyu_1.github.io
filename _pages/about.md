@@ -76,7 +76,7 @@ My research interest includes Bio-Inspired Neural Network, Neural Interface, Mul
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNE</div><img src='images/ECCV2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNE</div><img src='images/NI_DM_compressed.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -    `Guo, Weiyu`, Ma, Chenfei, Wang, Zheng, Zhang, Hang, Farina, Dario, Jiang, Ning, Lin, Chuang. "Long exposure convolutional memory network for accurate estimation of finger kinematics from surface electromyographic signals." Journal of Neural Engineering 18(2) 026027 (2021). IOP Publishing
